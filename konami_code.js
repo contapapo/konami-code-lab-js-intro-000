@@ -15,7 +15,7 @@ function init() {
 
       if (index === code.length){ //10 === 10
         alert("Wohooo!!!");
-        //index = 0;  //restart
+        index = 0;  //restart
       }
   }
   else {
